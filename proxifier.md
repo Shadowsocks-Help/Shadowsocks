@@ -52,3 +52,5 @@ sudo nvram boot-args="kext-dev-mode=1"
 ![](/img/proxifier5.jpg)
 
 確保選擇的是走 `socks5` 就可以了
+
+#### [<< 返回首页](README.md)
