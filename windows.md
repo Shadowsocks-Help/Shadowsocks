@@ -20,7 +20,7 @@
 
 4、然后可以打开 www.Google.com 进行测试。注：若游览器无法打开google.com等网页，可能是你的游览器有插件或者设置了代理，可以尝试更换游览器测试一下。
 
-![](https://github.com/Shadowsocks-Help/Shadowsocks/blob/master/img/windows1.PNG)
+![](/img/windows1.PNG)
 
 ## 最后 其他设置说明
 
@@ -34,7 +34,7 @@
 
 3、程序自动识别SS地址并导入服务器节点信息，最后启用系统代理即可使用
 
-![](https://github.com/Shadowsocks-Help/Shadowsocks/blob/master/img/windows2.PNG)
+![](/img/windows2.PNG)
 
 方法二、扫二维码配置【推荐】	通过扫描屏幕上的二维码，自动配置，推荐
 
@@ -44,7 +44,7 @@
 
 3、程序自动识别二维码并导入服务器节点信息，最后启用系统代理即可使用
 
-![](https://github.com/Shadowsocks-Help/Shadowsocks/blob/master/img/windows3.png)
+![](/img/windows3.png)
 
 方法三、手动编辑服务器配置	添加服务器，并逐一配置相关节点信息
 
@@ -62,7 +62,7 @@
 
 3、关于PAC更新，你可以直接从 [GFWList](https://github.com/gfwlist/gfwlist) （由第三方维护）更新 PAC 文件，或者你可以手动编辑本地pac文件。需要更新PAC：依次操作：PAC ->从GFW List更新PAC （等待更新完毕后）->使用本地PAC->启动系统代理。
 
-![](https://github.com/Shadowsocks-Help/Shadowsocks/blob/master/img/Windows4.jpg)
+![](/img/Windows4.jpg)
 
 ### 三、其他
 
