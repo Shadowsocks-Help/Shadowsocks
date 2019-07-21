@@ -14,7 +14,7 @@
 
 有多种配置节点信息的方法，可以根据你的习惯和需要选择
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/android1.png)
+![](/img/android1.png)
 
 ### 推荐，扫二维码配置
 
@@ -30,12 +30,12 @@
 
 1、在添加节点过程中出现如下提示，请下载安装Google Play服务框架、Google Play 服务、Google Play 谷歌三件套。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/android2.png)
+![](/img/android2.png)
 
 
 2、若是下载谷歌三件套后仍然无法使用，部分手机自带的商城里下载【谷歌安装器】后可正常使用。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/android3.png)
+![](/img/android3.png)
 
 3、若仍不能使用，可以尝试ROOT你的手机，请 www.baidu.com 或者 www.google.com 
 
