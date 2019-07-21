@@ -6,22 +6,17 @@
 
 2、安卓 Android 
 
-【 [shadowsocks--universal-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks--universal-4.8.1.apk)】
-|【 [shadowsocks-arm64-v8a-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-arm64-v8a-4.8.1.apk) 】
+【 [shadowsocks--universal-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks--universal-4.8.1.apk)】|【 [shadowsocks-arm64-v8a-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-arm64-v8a-4.8.1.apk) 】|
 
-【 [shadowsocks-armeabi-v7a-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-armeabi-v7a-4.8.1.apk)】
-|【 [shadowsocks--universal-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks--universal-4.8.1.apk)】
+【 [shadowsocks-armeabi-v7a-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-armeabi-v7a-4.8.1.apk)】|【 [shadowsocks--universal-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks--universal-4.8.1.apk)】|
 
-【 [shadowsocks-tv-arm64-v8a-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-arm64-v8a-4.8.1.apk) 】
-|【 [shadowsocks-tv-armeabi-v7a-4.8.1.apK](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-armeabi-v7a-4.8.1.apk)】
+【 [shadowsocks-tv-arm64-v8a-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-arm64-v8a-4.8.1.apk) 】|【 [shadowsocks-tv-armeabi-v7a-4.8.1.apK](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-armeabi-v7a-4.8.1.apk)】|
 
-【 [shadowsocks--universal-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks--universal-4.8.1.apk)】
-|【 [shadowsocks-tv-x86-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-x86-4.8.1.apk) 】
+【 [shadowsocks--universal-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks--universal-4.8.1.apk)】|【 [shadowsocks-tv-x86-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-x86-4.8.1.apk) 】|
 
-【 [shadowsocks-tv-x86_64-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-x86_64-4.8.1.apk)】
-|【 [shadowsocks-x86-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-x86-4.8.1.apk)】
+【 [shadowsocks-tv-x86_64-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-tv-x86_64-4.8.1.apk)】|【 [shadowsocks-x86-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-x86-4.8.1.apk)】
 
-【 [shadowsocks-x86_64-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-x86_64-4.8.1.apk)】
+【 [shadowsocks-x86_64-4.8.1.apk](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-x86_64-4.8.1.apk)】|
 
 3、苹果 iPhone、iPad
 
@@ -33,4 +28,6 @@
 
 5、 Linux
 
-【[Shadowsocks-Qt5-3.0.1-x86_64.AppImage](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/Shadowsocks-Qt5-3.0.1-x86_64.AppImage)】
+【[Shadowsocks-Qt5-3.0.1-x86_64.AppImage](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/Shadowsocks-Qt5-3.0.1-x86_64.AppImage)】|
+
+### [<< 返回首页](README.md)
