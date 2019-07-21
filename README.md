@@ -34,7 +34,7 @@ Designed to protect your Internet traffic.
 
 [1] [SS/ShadowsocksR 免费节点  点击获取](ss.md) 
 
-[2] [欢迎投放广告](ad.md) 
+[2] [欢迎无偿提供](ad.md) 
 
 ## 6 申明
 
