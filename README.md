@@ -36,7 +36,7 @@ Designed to protect your Internet traffic.
 
 ## 6 广告
 
-[欢迎投放广告](ad.md) [[购买付费节点](ss.md)]
+[欢迎投放广告](ad.md) 
 
 ## 7 申明
 
