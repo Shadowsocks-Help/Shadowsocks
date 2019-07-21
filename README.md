@@ -30,13 +30,7 @@ Designed to protect your Internet traffic.
 
 [2] [如何注册美区APPLE ID的终极指南](apple-id.md)
 
-## 5 Shadowsocks 免费节点共享
-
-[1] [SS/ShadowsocksR 免费节点  点击获取](ss.md) 
-
-[2] [欢迎无偿提供SS/SSR服务器节点](ad.md) 
-
-## 6 申明
+## 5 申明
 
 以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
 
