@@ -38,7 +38,7 @@ Designed to protect your Internet traffic.
 
 ## 6 其他设置教程
 
-[1] [Proxifier 设置教程)](proxifier.md)
+[1] [Proxifier 设置教程](proxifier.md)
 
 [2] [设置自定义 DNS 服务器](DNS.md)
 
