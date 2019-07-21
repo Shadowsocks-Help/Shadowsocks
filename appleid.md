@@ -9,11 +9,13 @@
 | 账号: | 4SSGIT@Gmail.com | 
 | 密码: | 4ssORG1234 | 
 
+注：若此APPLE ID账号被锁，登录后请直接申请邮件解锁，我们都会及时的解锁。
+
 <hr>
 
 ## 注意：千万不要在 iCloud 登陆
 
-1、只能在App Store登陆，正确登录方法如下
+1、很多小白iCloud和App Store傻傻分不清楚，它们是可以分别登陆的，只能在App Store登陆，正确登录方法如下
 
 ![](/img/AppStore.jpg)
 
