@@ -29,3 +29,5 @@
 美区 Apple ID 相对自由，你想要的软件基本上都有。
 
 如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](apple-id.md)
+
+### [<< 返回首页](README.md)
