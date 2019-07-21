@@ -30,7 +30,19 @@ Designed to protect your Internet traffic.
 
 [2] [如何注册美区APPLE ID的终极指南](apple-id.md)
 
-## 5 申明
+## 5 浏览器设置教程
+
+[1] [Chrome 设置教程 (Proxy SwitchyOmega)](Chrome.md) 
+
+[2] [Firefox Quantum 设置教程 (Proxy SwitchyOmega)](Firefox.md)
+
+## 6 其他设置教程
+
+[1] [Proxifier 设置教程)](proxifier.md)
+
+[2] [设置自定义 DNS 服务器](DNS.md)
+
+## 7 申明
 
 以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
 
