@@ -32,13 +32,11 @@ Designed to protect your Internet traffic.
 
 ## 5 Shadowsocks 免费节点共享
 
-[SS/ShadowsocksR 免费节点  点击获取](ss.md) 
+[1] [SS/ShadowsocksR 免费节点  点击获取](ss.md) 
 
-## 6 广告
+[2] [欢迎投放广告](ad.md) 
 
-[欢迎投放广告](ad.md) 
-
-## 7 申明
+## 6 申明
 
 以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
 
