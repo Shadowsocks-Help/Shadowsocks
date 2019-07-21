@@ -25,7 +25,7 @@
 
 3、苹果 iPhone、iPad
 
-苹果美区账号分享 详见： [APPLE ID 免费账号共享](appleid.md)
+【 [Shadowrocket小火箭在线安装]( https://shadowsocks-help.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsocks-help.github.io/Potatso-Lite/) 】
 
 4、苹果 Mac
 
