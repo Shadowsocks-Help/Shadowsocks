@@ -24,13 +24,15 @@ Designed to protect your Internet traffic.
 
 [6] [Shadowsocks 各平台设备客户端软件备用下载地址](download.md)
 
-## 4 Shadowsocks 免费节点共享
+## 4 APPLE ID 苹果美区账号免费账号共享
+
+[1] [APPLE ID 美区苹果账号  点击获取](appleid.md)  [  注意：请勿登录iCloud！ ]
+
+[2] [如何注册美区APPLE ID的终极指南](apple-id.md)
+
+## 5 Shadowsocks 免费节点共享
 
 [SS/ShadowsocksR 免费节点  点击获取](ss.md) 
-
-## 5 APPLE ID 苹果美区账号免费账号共享
-
-[APPLE ID 美区苹果账号  点击获取](appleid.md)  [注意：请勿登录iCloud！]
 
 ## 6 广告
 
