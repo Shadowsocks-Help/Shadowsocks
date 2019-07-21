@@ -22,11 +22,11 @@ Designed to protect your Internet traffic.
 
 [5] [Linux 使用 Shadowsocks 设置教程](linux.md)
 
-[6] [Shadowsocks 各平台设备客户端软件备用下载地址](download.md)
+[6] [Shadowsocks 客户端软件备用下载地址](download.md)
 
 ## 4 APPLE ID 苹果美区账号免费账号共享
 
-[1] [APPLE ID 美区苹果账号  点击获取](appleid.md)  [  注意：请勿登录iCloud！ ]
+[1] [APPLE ID 美区苹果账号  点击获取](appleid.md) 
 
 [2] [如何注册美区APPLE ID的终极指南](apple-id.md)
 
