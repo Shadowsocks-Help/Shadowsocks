@@ -24,7 +24,7 @@ Designed to protect your Internet traffic.
 
 [6] [Shadowsocks 客户端软件备用下载地址](download.md)
 
-## 4 APPLE ID 苹果美区账号免费账号共享
+## 4 苹果美区账号免费账号共享
 
 [1] [APPLE ID 美区苹果账号  点击获取](appleid.md) 
 
