@@ -10,7 +10,7 @@
 
 注：需要安装 [.NET Framework 4.6.2 ](https://dotnet.microsoft.com/download/dotnet-framework/net472)和 Microsoft [Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)（一般已默认安装不需再次安装）。
 
-## 第二步 基本使用
+## 第二步 使用教程
 
 1、下载后解压文件，打开EXE文件安装后，右键单击左下角任务栏的Shadowsocks【小飞机图标】进行配置。
 
