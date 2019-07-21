@@ -18,7 +18,7 @@
 
 右键单击 "Shadowsocks-Qt5-x.x.x-x86_64.AppImage"  > 选择 "Properties" > 单击 "Permissions" > 在"Allow excuting file as program" 上打勾。
 
-![下载客户端](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/linux1.png)
+![下载客户端](/img/linux1.png)
 
 ## 第二步 获取 Shadowsocks 账号信息
 
@@ -30,7 +30,7 @@
 
 * 双击`Shadowsocks-Qt5-x.x.x-x86_64.AppImage` > "Connection" > "Add" > "Manually"。
 
-![Ubuntu 手动设置](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/linux2.png)
+![Ubuntu 手动设置](/img/linux2.png)
 
 * 填写 "Server Address" （为你的节点服务器地址）> 填写"Server Port"（为你的服务端口) > 填写 "Password" （为你的登陆密码)。
 
@@ -38,7 +38,7 @@
 
 >勾选 "Auto connect to connect on application start", 将会在开启 Shadowsocks-QT5 时自动连接至该服务器。
 
-![服务器设置](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/linux3.png)
+![服务器设置](/img/linux3.png)
 
 #### 您也可以通过二维码方式单独增加节点，在您的计算机上， 执行下列操作：
 此二维码同样适用于其他客户端。
@@ -47,7 +47,7 @@
 
 * 点击 "Connect" 图标 。
 
-![二维码设置](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/linux4.png)
+![二维码设置](/img/linux4.png)
 
 ## 命令行客户端
 ### 1. 安装：
