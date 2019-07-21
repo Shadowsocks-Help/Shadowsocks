@@ -26,17 +26,17 @@
 
 Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来也是极其方便。点击左上角的方框即可扫描 Shadowsocks 账户服务器节点的二维码，免去输入的麻烦。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket1.png)
+![](/img/Shadowrocket1.png)
 
 第一次连接时会弹出一个添加代理的提示框，点“Allow”允许，否则不能用。如果你有多个节点，连接后是使用前面有圆点的节点，点击节点即选中作为默认，选中的节点使用中无法删除。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket2.png)
+![](/img/Shadowrocket2.png)
 
 或者你也可以点击右上角的加号进行手动输入
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket3.png)
+![](/img/Shadowrocket3.png)
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket7.png)
+![](/img/Shadowrocket7.png)
 
 ***规则的设置***
 
@@ -44,7 +44,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 点击 Settings，然后在点击 Config 你就可以看到以下界面
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket4.png)
+![](/img/Shadowrocket4.png)
 
 点击 + 通过添加链接，在点击 Use Config 来下载规则文件。你可以对其进行编辑，以满足自己的使用习惯。点击感叹号，然后在点击 Add Rule，点击 Type，就可以看到多种过滤方式进行设置了。
 
@@ -52,11 +52,11 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 打开Shadowrocket，点击右上角加号 + ，在添加节点页面，将类型改为第三个 Subscribe，复制订阅地址粘贴到URL中，然后点击右上角完成即可。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket5.jpg)
+![](/img/Shadowrocket5.jpg)
 
 在Shadowrocket设置--服务器订阅中打开【打开时更新】选项。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/Shadowrocket6.png)
+![](/img/Shadowrocket6.png)
 
 回到首页，打开连接开关，享受科学上网吧！
 
@@ -66,7 +66,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 从 App Store 安装后打开 Potatso Lite。点击 "立即使用" > "现在添加"。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/PotatsoLite1.PNG)
+![](/img/PotatsoLite1.PNG)
 
 ***扫码配置***
 
@@ -80,7 +80,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 3、填写 "备注" 为可选项 > 点击右上角的 "✔"， 设置完成。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/PotatsoLite2.PNG)
+![](/img/PotatsoLite2.PNG)
 
 ***开始代理***
 
@@ -90,7 +90,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 3、智能路由 表示可以实现自动代理， 及本来可以访问的网站不会经过代理，推荐日常使用。
 
-![](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/img/PotatsoLite3.PNG)
+![](/img/PotatsoLite3.PNG)
 
 ## 最后 若无法打开网页，可以进行如下测试
 
