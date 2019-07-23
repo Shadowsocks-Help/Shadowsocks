@@ -42,7 +42,7 @@
 
 2、[Shadowsocks 节点服务器个人搭建指南](Shadowsocks-server.md)
 
-3、<a class="btn btn-danger" href="https://s-s-r.github.io/">SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】</a>   
+3、[SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！](ss.md)
 
 
 <hr>
