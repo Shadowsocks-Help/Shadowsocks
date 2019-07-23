@@ -38,11 +38,7 @@
 
 ### 关于Shadowsocks的更多内容
 
-1、[记录一下SS(Shadowsocks)的前世今生](Shadowsocks-wiki.md)
-
-2、[Shadowsocks 节点服务器个人搭建指南](Shadowsocks-server.md)
-
-3、[SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](ss.md)
+1、[SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](ss.md)
 
 <hr>
 
