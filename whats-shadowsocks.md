@@ -44,6 +44,19 @@
 
 3、[SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](ss.md)
 
+### Shadowsocks 设置使用教程
+
+[1] [微软 Windows 使用 Shadowsocks 设置教程](windows.md)
+
+[2] [安卓 Android 使用 Shadowsocks 设置教程](Android.md)
+
+[3] [苹果 iOS 使用 Shadowsocks 设置教程](ios.md)
+
+[4] [苹果 macOS 使用 Shadowsocks 设置教程](mac.md)
+
+[5] [Linux 使用 Shadowsocks 设置教程](linux.md)
+
+[6] [Shadowsocks 客户端软件备用下载地址](download.md)
 
 <hr>
 
