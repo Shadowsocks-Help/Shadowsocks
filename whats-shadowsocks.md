@@ -38,7 +38,9 @@
 
 ### 关于Shadowsocks的更多内容
 
-详见：[记录一下SS(Shadowsocks)的前世今生及一个简单的教程总结](Shadowsocks-wiki.md)
+1、[记录一下SS(Shadowsocks)的前世今生](Shadowsocks-wiki.md)
+
+2、[Shadowsocks 节点服务器个人搭建指南](Shadowsocks-server.md)
 
 <hr>
 
