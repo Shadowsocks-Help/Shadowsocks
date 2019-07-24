@@ -2,9 +2,9 @@
 
 ## 1 Shadowsocks 是什么？
 
-[1] [ Shadowsocks ](whats-shadowsocks.md)是比VPN更科学的一种网络代理，使您可以访问到世界任何角落的互联网。
+[1] [ Shadowsocks ](README.md)是比VPN更科学的一种网络代理，使您可以访问到世界任何角落的互联网。
 
-[2] [ A secure socks5 proxy,designed to protect your Internet traffic. ](https://shadowsocks.org/)
+[2] A secure socks5 proxy,designed to protect your Internet traffic. 
 
 ## 2 Shadowsocks 如何使用？
 
