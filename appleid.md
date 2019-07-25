@@ -6,10 +6,11 @@
 
 <hr>
 
-| 账号: | 4SSGIT@Gmail.com | 
-| 密码: | 4ssORG1234 | 
+| 账号1: | 4SSGIT@Gmail.com | 密码: | 4ssORG1234 | 
 
-注：若此APPLE ID账号被锁，登录后请直接申请邮件解锁，我们都会及时的解锁。
+| 账号2: | 1714477@Gmail.com | 密码: | Freeidxyz1234 | 
+
+注：切记请勿登录iCloud，手机被锁我们也无能为力！若此APPLE ID账号被锁，登录后请选择邮件解锁，我们都会及时的解锁。
 
 <hr>
 
