@@ -8,7 +8,7 @@
 
 ## 2 Shadowsocks 如何使用？
 
-[1] 使用很简单：首先 1 下载安装好客户端 → 2 扫码添加SS/SSR节点信息  → 3 设置启用即可
+[1] 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md)  → 3 设置启用即可
 
 [2] 客户端下载：<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-windows.zip" target="_blank">微软Windows</a> | 
 <a href="https://shadowsocks-help.github.io/ios/" target="_blank">苹果iPhone/ipad</a> | 
