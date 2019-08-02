@@ -65,4 +65,4 @@
 
 ![自定义规则](/img/chrome4.png)
 
-#### [<< 返回首页](README.md)
+### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
