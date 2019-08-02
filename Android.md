@@ -45,4 +45,4 @@
 
 在您信息配置完成后，我们推荐在功能设置中设置「绕过局域网及中国大陆模式」，该模式可以实现自动代理，其他选项不要启用，就可打开游览器访问 www.google.com 网站进行测试。
 
-### [<< 返回首页](README.md)
+### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
