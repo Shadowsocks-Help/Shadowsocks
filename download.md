@@ -30,4 +30,4 @@
 
 【[Shadowsocks-Qt5-3.0.1-x86_64.AppImage](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/Shadowsocks-Qt5-3.0.1-x86_64.AppImage)】|
 
-### [<< 返回首页](README.md)
+### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
