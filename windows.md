@@ -90,4 +90,4 @@
 
 注意： 在启用插件后，正向代理会被停用。
 
-### [<< 返回首页](README.md)
+### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
