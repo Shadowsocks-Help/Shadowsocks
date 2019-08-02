@@ -108,4 +108,4 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 3、使用共享账号登录，切记请勿登录iCloud。
 
-### [<< 返回首页](README.md)
+### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
