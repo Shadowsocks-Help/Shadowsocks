@@ -29,6 +29,6 @@
 每天不同地区的 App Store 都有不同数量的应用下架。下架的原因多种多样，当然国区还要受益于某国特殊的环境。在特殊时期，某类应用还会被批量下架，不要折腾，不要喧嚣，一片和谐多好。国区 App Store 是一个政策妥协的结果，所以必然会导致部分软件的缺失。此外，国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。
 美区 Apple ID 相对自由，你想要的软件基本上都有。
 
-如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](apple-id.md)
+如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](https://shadowsocks-help.github.io/Shadowsocks/apple-id.html)
 
 ### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
