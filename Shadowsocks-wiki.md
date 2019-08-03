@@ -3,7 +3,7 @@
 > 时间会遗忘的。
 
 
-> [【推荐】SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](https://s-s-r.github.io/)
+> [【推荐】SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！](https://s-s-r.github.io/)
 
   * [前言](#--)
     + [经典思路](#----)
