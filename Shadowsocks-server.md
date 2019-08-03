@@ -1,7 +1,7 @@
 # Shadowsocks 节点服务器个人搭建指南
 
 
-> [【推荐】SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](https://s-s-r.github.io/)
+> [【推荐】SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！](https://s-s-r.github.io/)
 
 - [个人搭建指南](#------)
   * [服务器选择](#-----)
