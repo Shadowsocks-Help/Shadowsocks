@@ -38,7 +38,7 @@
 
 ### 关于Shadowsocks的更多内容
 
-1、[SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](ss.md)
+1、[SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【AD】](https://s-s-r.github.io/)
 
 <hr>
 
