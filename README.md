@@ -6,6 +6,8 @@
 
 [2] A secure socks5 proxy,designed to protect your Internet traffic. 
 
+[3] [SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【推荐】](https://s-s-r.github.io/)
+
 ## 2 Shadowsocks 如何使用？
 
 [1] 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md)  → 3 设置启用即可
