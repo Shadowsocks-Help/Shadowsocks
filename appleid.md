@@ -6,7 +6,7 @@
 
 <hr>
 
-| 账号1: | 4SSGIT@Gmail.com | 密码: | 4ssORG1234 | 
+| 账号1: | 4ssgit@Gmail.com | 密码: | 4ssGit1234 | 
 
 | 账号2: | 1714477@Gmail.com | 密码: | Freeidxyz1234 | 
 
