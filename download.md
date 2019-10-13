@@ -20,7 +20,7 @@
 
 3、苹果 iPhone、iPad
 
-【 [Shadowrocket小火箭在线安装]( https://shadowsocks-help.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsocks-help.github.io/Potatso-Lite/) 】
+【 [Shadowrocket小火箭在线安装]( https://shadowsockshelp.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsockshelp.github.io/Potatso-Lite/) 】
 
 4、苹果 Mac
 
