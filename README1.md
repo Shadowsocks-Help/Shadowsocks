@@ -6,7 +6,7 @@
 
 [2] A secure socks5 proxy,designed to protect your Internet traffic. 
 
-[3] [SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【推荐】](https://s-s-r.github.io/)
+[3] [v2ray付費穩定服務器！一鍵接入，鏈接全球！【推荐】](https://s-s-r.github.io/)
 
 ## 2 Shadowsocks 如何使用？
 
